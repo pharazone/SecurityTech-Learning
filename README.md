@@ -1,6 +1,6 @@
 # SecurityTech-Learning
 
-Copyright (c) 2018 HFBB All Rights Reserved.
+Copyright (c) 2017-2018 HFBB All Rights Reserved.
 
 ## 安全技术学习计划（初稿Ver0.1）
 
